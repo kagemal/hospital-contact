@@ -17,8 +17,8 @@ from datetime import datetime
 from DrissionPage import ChromiumPage, ChromiumOptions
 
 # 配置参数
-TEL_NUMBER = '15005118976'
-TEL_NAME = '张宇'
+TEL_NUMBER = '18897943857'
+TEL_NAME = '危蜻蜓'
 
 # 进度文件
 PROGRESS_FILE = 'progress.json'
@@ -244,3 +244,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
